@@ -10,6 +10,7 @@ import java.util.Random;
 
 public class MainActivity extends AppCompatActivity {
     TextView text;
+    int test;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
